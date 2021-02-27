@@ -47,3 +47,4 @@ Industrial and civil engineering, Civil engineer of industrial and civil enginee
 English 	Pre-Intermediate
 Ukrainian 	Native
 Russian 	Native
+
