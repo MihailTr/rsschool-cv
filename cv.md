@@ -5,19 +5,19 @@
 Email: ____@gmail.com 
 
 ####Skills
-Java 8 (Java Core)
-Spring(Core, MVC, Data, Security)
-Hibernate, JDBC
-Servlet/JSP
-SQL
-Log4J, JUnit.
-OOP
-Maven
-Git
-Python 3
-Django
-HTML, CSS
-Windows, Linux
+* Java 8 (Java Core)
+* Spring(Core, MVC, Data, Security)
+* Hibernate, JDBC
+* Servlet/JSP
+* SQL
+* Log4J, JUnit.
+* OOP
+* Maven
+* Git
+* Python 3
+* Django
+* HTML, CSS
+* Windows, Linux
 
 ####Code examples 
 ````javascript
