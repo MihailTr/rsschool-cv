@@ -1,10 +1,10 @@
-#Mykhailo Trushkivskyi
+# Mykhailo Trushkivskyi
 
-####Contact information 
+#### Contact information 
 
 Email: ____@gmail.com 
 
-####Skills
+#### Skills
 * Java 8 (Java Core)
 * Spring(Core, MVC, Data, Security)
 * Hibernate, JDBC
@@ -19,7 +19,7 @@ Email: ____@gmail.com
 * HTML, CSS
 * Windows, Linux
 
-####Code examples 
+#### Code examples 
 ````javascript
 function testStr(a, b) {
      let i;
@@ -33,17 +33,17 @@ function testStr(a, b) {
      return x;
 }
 ````
-####Experience no IT
+#### Experience no IT
 Freelance
 Leading Process Engineer.
 Dec 2019 – Present
 
-####Education	
+#### Education	
 Sept. 2007 - June 2013	
-#####Vinnytsia National Technical University.
+##### Vinnytsia National Technical University.
 Industrial and civil engineering, Civil engineer of industrial and civil engineering
 
-####Languages	
+#### Languages	
 English 	Pre-Intermediate
 Ukrainian 	Native
 Russian 	Native
